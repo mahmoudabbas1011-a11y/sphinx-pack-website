@@ -127,6 +127,14 @@
       "category": "foil",
       "name": "لفة روق فويل ",
       "size": "300سم"
+    },
+    {
+      "category": "foil",
+      "image": "images/122670.jpg",
+      "name": "طبق فويل مدور بالغطاء ",
+      "size": "5",
+      "price": 1200,
+      "carton_qty": "600"
     }
   ]
 }
